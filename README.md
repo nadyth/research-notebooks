@@ -27,10 +27,11 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 019 | Convolutional Sequence to Sequence Learning | [019_convolutional-sequence-to-sequence-learning](https://github.com/nadyth/research-notebooks/tree/main/019_convolutional-sequence-to-sequence-learning) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/convolutional-sequence-to-sequence-learning) |
 | 020 | Attention Is All You Need (Transformer) | [020_attention-is-all-you-need-transformer](https://github.com/nadyth/research-notebooks/tree/main/020_attention-is-all-you-need-transformer) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/attention-is-all-you-need-transformer) |
 | 021 | Auto-Encoding Variational Bayes (VAE) | [021_auto-encoding-variational-bayes-vae](https://github.com/nadyth/research-notebooks/tree/main/021_auto-encoding-variational-bayes-vae) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/auto-encoding-variational-bayes-vae) |
+| 022 | Generative Adversarial Networks (GAN) | [022_generative-adversarial-networks-gan](https://github.com/nadyth/research-notebooks/tree/main/022_generative-adversarial-networks-gan) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/generative-adversarial-networks-gan) |
 
 ## Stats
 
-- **21 notebooks** published and validated on Kaggle GPU
+- **22 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
@@ -47,6 +48,6 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 
 ## Coverage
 
-Papers span the foundational ML/DL literature: optimization (Adam, Dropout, BatchNorm), CNNs (VGGNet, GoogLeNet, ResNet, Highway Networks), sequence models (Seq2Seq, Bahdanau Attention, GRU, ConvS2S), generative models (Neural Style Transfer), memory-augmented networks (Neural Turing Machines, Memory Networks, End-to-End Memory Networks, Pointer Networks), and image captioning (Show and Tell), and the Transformer architecture (Attention Is All You Need), and variational auto-encoders (VAE).
+Papers span the foundational ML/DL literature: optimization (Adam, Dropout, BatchNorm), CNNs (VGGNet, GoogLeNet, ResNet, Highway Networks), sequence models (Seq2Seq, Bahdanau Attention, GRU, ConvS2S), generative models (Neural Style Transfer), memory-augmented networks (Neural Turing Machines, Memory Networks, End-to-End Memory Networks, Pointer Networks), and image captioning (Show and Tell), and the Transformer architecture (Attention Is All You Need), and variational auto-encoders (VAE), and generative adversarial networks (GAN).
 
 New notebooks are added regularly as I work through a curated reading list of 100 foundational papers.
