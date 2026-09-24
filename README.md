@@ -32,10 +32,11 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 039 | Wide Residual Networks | [039_wide-residual-networks](https://github.com/nadyth/research-notebooks/tree/main/039_wide-residual-networks) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/wide-residual-networks) |
 | 041 | Dynamic Routing Between Capsules | [041_dynamic-routing-between-capsules](https://github.com/nadyth/research-notebooks/tree/main/041_dynamic-routing-between-capsules) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/dynamic-routing-between-capsules) |
 | 042 | Layer Normalization | [042_layer-normalization](https://github.com/nadyth/research-notebooks/tree/main/042_layer-normalization) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/layer-normalization) |
+| 045 | Distilling the Knowledge in a Neural Network | [045_distilling-knowledge-in-a-neural-network](https://github.com/nadyth/research-notebooks/tree/main/045_distilling-knowledge-in-a-neural-network) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/distilling-knowledge-in-a-neural-network) |
 
 ## Stats
 
-- **26 notebooks** published and validated on Kaggle GPU
+- **27 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
