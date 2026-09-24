@@ -30,11 +30,12 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 022 | Generative Adversarial Networks (GAN) | [022_generative-adversarial-networks-gan](https://github.com/nadyth/research-notebooks/tree/main/022_generative-adversarial-networks-gan) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/generative-adversarial-networks-gan) |
 | 023 | DCGAN — Unsupervised Representation Learning with Deep Convolutional GANs | [023_dcgan-unsupervised-representation-learning](https://github.com/nadyth/research-notebooks/tree/main/023_dcgan-unsupervised-representation-learning) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/dcgan-unsupervised-representation-learning) |
 | 039 | Wide Residual Networks | [039_wide-residual-networks](https://github.com/nadyth/research-notebooks/tree/main/039_wide-residual-networks) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/wide-residual-networks) |
+| 041 | Dynamic Routing Between Capsules | [041_dynamic-routing-between-capsules](https://github.com/nadyth/research-notebooks/tree/main/041_dynamic-routing-between-capsules) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/dynamic-routing-between-capsules) |
 | 042 | Layer Normalization | [042_layer-normalization](https://github.com/nadyth/research-notebooks/tree/main/042_layer-normalization) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/layer-normalization) |
 
 ## Stats
 
-- **25 notebooks** published and validated on Kaggle GPU
+- **26 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
