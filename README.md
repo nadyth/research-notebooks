@@ -33,10 +33,11 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 041 | Dynamic Routing Between Capsules | [041_dynamic-routing-between-capsules](https://github.com/nadyth/research-notebooks/tree/main/041_dynamic-routing-between-capsules) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/dynamic-routing-between-capsules) |
 | 042 | Layer Normalization | [042_layer-normalization](https://github.com/nadyth/research-notebooks/tree/main/042_layer-normalization) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/layer-normalization) |
 | 045 | Distilling the Knowledge in a Neural Network | [045_distilling-knowledge-in-a-neural-network](https://github.com/nadyth/research-notebooks/tree/main/045_distilling-knowledge-in-a-neural-network) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/distilling-knowledge-in-a-neural-network) |
+| 051 | Playing Atari with Deep Reinforcement Learning (DQN) | [051_playing-atari-with-deep-reinforcement](https://github.com/nadyth/research-notebooks/tree/main/051_playing-atari-with-deep-reinforcement) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/playing-atari-with-deep-reinforcement) |
 
 ## Stats
 
-- **27 notebooks** published and validated on Kaggle GPU
+- **29 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
@@ -53,6 +54,6 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 
 ## Coverage
 
-Papers span the foundational ML/DL literature: optimization (Adam, Dropout, BatchNorm), CNNs (VGGNet, GoogLeNet, ResNet, Highway Networks), sequence models (Seq2Seq, Bahdanau Attention, GRU, ConvS2S), generative models (Neural Style Transfer, VAE, GAN, DCGAN), memory-augmented networks (Neural Turing Machines, Memory Networks, End-to-End Memory Networks, Pointer Networks), and image captioning (Show and Tell), and the Transformer architecture (Attention Is All You Need).
+Papers span the foundational ML/DL literature: optimization (Adam, Dropout, BatchNorm), CNNs (VGGNet, GoogLeNet, ResNet, Highway Networks), sequence models (Seq2Seq, Bahdanau Attention, GRU, ConvS2S), generative models (Neural Style Transfer, VAE, GAN, DCGAN), memory-augmented networks (Neural Turing Machines, Memory Networks, End-to-End Memory Networks, Pointer Networks), image captioning (Show and Tell), the Transformer architecture (Attention Is All You Need), and deep reinforcement learning (DQN).
 
 New notebooks are added regularly as I work through a curated reading list of 100 foundational papers.
