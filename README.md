@@ -34,10 +34,11 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 042 | Layer Normalization | [042_layer-normalization](https://github.com/nadyth/research-notebooks/tree/main/042_layer-normalization) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/layer-normalization) |
 | 045 | Distilling the Knowledge in a Neural Network | [045_distilling-knowledge-in-a-neural-network](https://github.com/nadyth/research-notebooks/tree/main/045_distilling-knowledge-in-a-neural-network) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/distilling-knowledge-in-a-neural-network) |
 | 051 | Playing Atari with Deep Reinforcement Learning (DQN) | [051_playing-atari-with-deep-reinforcement](https://github.com/nadyth/research-notebooks/tree/main/051_playing-atari-with-deep-reinforcement) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/playing-atari-with-deep-reinforcement) |
+| 052 | Deep Reinforcement Learning with Double Q-learning | [052_double-dqn](https://github.com/nadyth/research-notebooks/tree/main/052_double-dqn) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/double-dqn-deep-reinforcement-learning) |
 
 ## Stats
 
-- **29 notebooks** published and validated on Kaggle GPU
+- **30 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
