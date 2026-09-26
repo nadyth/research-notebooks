@@ -29,6 +29,7 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 021 | Auto-Encoding Variational Bayes (VAE) | [021_auto-encoding-variational-bayes-vae](https://github.com/nadyth/research-notebooks/tree/main/021_auto-encoding-variational-bayes-vae) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/auto-encoding-variational-bayes-vae) |
 | 022 | Generative Adversarial Networks (GAN) | [022_generative-adversarial-networks-gan](https://github.com/nadyth/research-notebooks/tree/main/022_generative-adversarial-networks-gan) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/generative-adversarial-networks-gan) |
 | 023 | DCGAN — Unsupervised Representation Learning with Deep Convolutional GANs | [023_dcgan-unsupervised-representation-learning](https://github.com/nadyth/research-notebooks/tree/main/023_dcgan-unsupervised-representation-learning) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/dcgan-unsupervised-representation-learning) |
+| 024 | Conditional Generative Adversarial Nets | [024_conditional-generative-adversarial-nets](https://github.com/nadyth/research-notebooks/tree/main/024_conditional-generative-adversarial-nets) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/conditional-generative-adversarial-nets) |
 | 039 | Wide Residual Networks | [039_wide-residual-networks](https://github.com/nadyth/research-notebooks/tree/main/039_wide-residual-networks) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/wide-residual-networks) |
 | 041 | Dynamic Routing Between Capsules | [041_dynamic-routing-between-capsules](https://github.com/nadyth/research-notebooks/tree/main/041_dynamic-routing-between-capsules) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/dynamic-routing-between-capsules) |
 | 042 | Layer Normalization | [042_layer-normalization](https://github.com/nadyth/research-notebooks/tree/main/042_layer-normalization) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/layer-normalization) |
@@ -39,7 +40,7 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 
 ## Stats
 
-- **31 notebooks** published and validated on Kaggle GPU
+- **32 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
