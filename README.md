@@ -30,6 +30,7 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 022 | Generative Adversarial Networks (GAN) | [022_generative-adversarial-networks-gan](https://github.com/nadyth/research-notebooks/tree/main/022_generative-adversarial-networks-gan) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/generative-adversarial-networks-gan) |
 | 023 | DCGAN — Unsupervised Representation Learning with Deep Convolutional GANs | [023_dcgan-unsupervised-representation-learning](https://github.com/nadyth/research-notebooks/tree/main/023_dcgan-unsupervised-representation-learning) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/dcgan-unsupervised-representation-learning) |
 | 024 | Conditional Generative Adversarial Nets | [024_conditional-generative-adversarial-nets](https://github.com/nadyth/research-notebooks/tree/main/024_conditional-generative-adversarial-nets) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/conditional-generative-adversarial-nets) |
+| 025 | Image-to-Image Translation with Conditional Adversarial Networks (Pix2Pix) | [025_image-to-image-translation-with-conditional](https://github.com/nadyth/research-notebooks/tree/main/025_image-to-image-translation-with-conditional) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/pix2pix-image-to-image-translation) |
 | 039 | Wide Residual Networks | [039_wide-residual-networks](https://github.com/nadyth/research-notebooks/tree/main/039_wide-residual-networks) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/wide-residual-networks) |
 | 041 | Dynamic Routing Between Capsules | [041_dynamic-routing-between-capsules](https://github.com/nadyth/research-notebooks/tree/main/041_dynamic-routing-between-capsules) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/dynamic-routing-between-capsules) |
 | 042 | Layer Normalization | [042_layer-normalization](https://github.com/nadyth/research-notebooks/tree/main/042_layer-normalization) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/layer-normalization) |
@@ -40,7 +41,7 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 
 ## Stats
 
-- **32 notebooks** published and validated on Kaggle GPU
+- **33 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
