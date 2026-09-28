@@ -35,6 +35,7 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 027 | Wasserstein GAN | [027_wasserstein-gan](https://github.com/nadyth/research-notebooks/tree/main/027_wasserstein-gan) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/wasserstein-gan) |
 | 028 | Improved Training of Wasserstein GANs (WGAN-GP) | [028_improved-training-wasserstein-gans-gp](https://github.com/nadyth/research-notebooks/tree/main/028_improved-training-wasserstein-gans-gp) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/improved-training-of-wasserstein-gans-wgan-gp) |
 | 029 | Progressive Growing of GANs for Improved Quality, Stability, and Variation | [029_progressive-growing-of-gans](https://github.com/nadyth/research-notebooks/tree/main/029_progressive-growing-of-gans) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/progressive-growing-of-gans) |
+| 030 | A Style-Based Generator Architecture for GANs (StyleGAN) | [030_style-based-generator-architecture-gans-stylegan](https://github.com/nadyth/research-notebooks/tree/main/030_style-based-generator-architecture-gans-stylegan) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/stylegan) |
 | 039 | Wide Residual Networks | [039_wide-residual-networks](https://github.com/nadyth/research-notebooks/tree/main/039_wide-residual-networks) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/wide-residual-networks) |
 | 041 | Dynamic Routing Between Capsules | [041_dynamic-routing-between-capsules](https://github.com/nadyth/research-notebooks/tree/main/041_dynamic-routing-between-capsules) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/dynamic-routing-between-capsules) |
 | 042 | Layer Normalization | [042_layer-normalization](https://github.com/nadyth/research-notebooks/tree/main/042_layer-normalization) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/layer-normalization) |
@@ -46,7 +47,7 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 
 ## Stats
 
-- **37 notebooks** published and validated on Kaggle GPU
+- **38 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
