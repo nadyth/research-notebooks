@@ -41,6 +41,7 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 034 | Mask R-CNN | [034_mask-r-cnn](https://github.com/nadyth/research-notebooks/tree/main/034_mask-r-cnn) | [![Kaggle](https://kaggle.com/static/images/open-in/kaggle.svg)](https://www.kaggle.com/code/nadymsazad/mask-r-cnn) |
 | 035 | U-Net: Convolutional Networks for Biomedical Image Segmentation | [035_u-net-biomedical-image-segmentation](https://github.com/nadyth/research-notebooks/tree/main/035_u-net-biomedical-image-segmentation) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/u-net-biomedical-image-segmentation) |
 | 036 | SqueezeNet: AlexNet-level accuracy with 50× fewer parameters and <0.5MB model size | [036_squeezenet](https://github.com/nadyth/research-notebooks/tree/main/036_squeezenet) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/squeezenet) |
+| 037 | Densely Connected Convolutional Networks (DenseNet) | [037_densely-connected-convolutional-networks-densenet](https://github.com/nadyth/research-notebooks/tree/main/037_densely-connected-convolutional-networks-densenet) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/densely-connected-convolutional-networks) |
 | 039 | Wide Residual Networks | [039_wide-residual-networks](https://github.com/nadyth/research-notebooks/tree/main/039_wide-residual-networks) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/wide-residual-networks) |
 | 041 | Dynamic Routing Between Capsules | [041_dynamic-routing-between-capsules](https://github.com/nadyth/research-notebooks/tree/main/041_dynamic-routing-between-capsules) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/dynamic-routing-between-capsules) |
 | 042 | Layer Normalization | [042_layer-normalization](https://github.com/nadyth/research-notebooks/tree/main/042_layer-normalization) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/layer-normalization) |
@@ -52,7 +53,7 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 
 ## Stats
 
-- **43 notebooks** published and validated on Kaggle GPU
+- **44 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
