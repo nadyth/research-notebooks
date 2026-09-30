@@ -38,6 +38,7 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 030 | A Style-Based Generator Architecture for GANs (StyleGAN) | [030_style-based-generator-architecture-gans-stylegan](https://github.com/nadyth/research-notebooks/tree/main/030_style-based-generator-architecture-gans-stylegan) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/stylegan) |
 | 031 | Faster R-CNN: Towards Real-Time Object Detection | [031_faster-r-cnn-towards-real-time-object](https://github.com/nadyth/research-notebooks/tree/main/031_faster-r-cnn-towards-real-time-object) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/faster-r-cnn-towards-real-time-object-detection) |
 | 032 | You Only Look Once (YOLO) | [032_you-only-look-once-yolo](https://github.com/nadyth/research-notebooks/tree/main/032_you-only-look-once-yolo) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/you-only-look-once-yolo) |
+| 034 | Mask R-CNN | [034_mask-r-cnn](https://github.com/nadyth/research-notebooks/tree/main/034_mask-r-cnn) | [![Kaggle](https://kaggle.com/static/images/open-in/kaggle.svg)](https://www.kaggle.com/code/nadymsazad/mask-r-cnn) |
 | 039 | Wide Residual Networks | [039_wide-residual-networks](https://github.com/nadyth/research-notebooks/tree/main/039_wide-residual-networks) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/wide-residual-networks) |
 | 041 | Dynamic Routing Between Capsules | [041_dynamic-routing-between-capsules](https://github.com/nadyth/research-notebooks/tree/main/041_dynamic-routing-between-capsules) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/dynamic-routing-between-capsules) |
 | 042 | Layer Normalization | [042_layer-normalization](https://github.com/nadyth/research-notebooks/tree/main/042_layer-normalization) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/layer-normalization) |
@@ -49,7 +50,7 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 
 ## Stats
 
-- **40 notebooks** published and validated on Kaggle GPU
+- **41 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
