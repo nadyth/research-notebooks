@@ -51,6 +51,7 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 044 | Rethinking the Inception Architecture (Label Smoothing) | [044_rethinking-inception-architecture-label](https://github.com/nadyth/research-notebooks/tree/main/044_rethinking-inception-architecture-label) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/label-smoothing-regularization-inception) |
 | 045 | Distilling the Knowledge in a Neural Network | [045_distilling-knowledge-in-a-neural-network](https://github.com/nadyth/research-notebooks/tree/main/045_distilling-knowledge-in-a-neural-network) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/distilling-knowledge-in-a-neural-network) |
 | 046 | The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks | [046_lottery-ticket-hypothesis](https://github.com/nadyth/research-notebooks/tree/main/046_lottery-ticket-hypothesis) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/lottery-ticket-hypothesis) |
+| 047 | Neural Architecture Search with Reinforcement Learning | [047_neural-architecture-search-rl](https://github.com/nadyth/research-notebooks/tree/main/047_neural-architecture-search-rl) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/neural-architecture-search-rl) |
 | 051 | Playing Atari with Deep Reinforcement Learning (DQN) | [051_playing-atari-with-deep-reinforcement](https://github.com/nadyth/research-notebooks/tree/main/051_playing-atari-with-deep-reinforcement) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/playing-atari-with-deep-reinforcement) |
 | 052 | Deep Reinforcement Learning with Double Q-learning | [052_double-dqn](https://github.com/nadyth/research-notebooks/tree/main/052_double-dqn) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/double-dqn-deep-reinforcement-learning) |
 | 054 | Prioritized Experience Replay | [054_prioritized-experience-replay](https://github.com/nadyth/research-notebooks/tree/main/054_prioritized-experience-replay) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/prioritized-experience-replay) |
@@ -58,7 +59,7 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 
 ## Stats
 
-- **49 notebooks** published and validated on Kaggle GPU
+- **50 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
