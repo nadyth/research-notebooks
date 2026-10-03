@@ -61,10 +61,11 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 055 | Asynchronous Methods for Deep Reinforcement Learning (A3C) | [055_asynchronous-methods-for-deep-rl](https://github.com/nadyth/research-notebooks/tree/main/055_asynchronous-methods-for-deep-rl) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/asynchronous-methods-for-deep-rl) |
 | 053 | Dueling Network Architectures for Deep RL | [053_dueling-network-architectures-for-deep-rl](https://github.com/nadyth/research-notebooks/tree/main/053_dueling-network-architectures-for-deep-rl) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/dueling-network-architectures-for-deep-rl) |
 | 056 | Trust Region Policy Optimization (TRPO) | [056_trust-region-policy-optimization](https://github.com/nadyth/research-notebooks/tree/main/056_trust-region-policy-optimization) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/trust-region-policy-optimization-trpo) |
+| 057 | Continuous Control with Deep Reinforcement Learning (DDPG) | [057_continuous-control-with-deep-rl-ddpg](https://github.com/nadyth/research-notebooks/tree/main/057_continuous-control-with-deep-rl-ddpg) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/continuous-control-deep-rl-ddpg) |
 
 ## Stats
 
-- **53 notebooks** published and validated on Kaggle GPU
+- **54 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
