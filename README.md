@@ -63,10 +63,11 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 056 | Trust Region Policy Optimization (TRPO) | [056_trust-region-policy-optimization](https://github.com/nadyth/research-notebooks/tree/main/056_trust-region-policy-optimization) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/trust-region-policy-optimization-trpo) |
 | 057 | Continuous Control with Deep Reinforcement Learning (DDPG) | [057_continuous-control-with-deep-rl-ddpg](https://github.com/nadyth/research-notebooks/tree/main/057_continuous-control-with-deep-rl-ddpg) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/continuous-control-deep-rl-ddpg) |
 | 058 | Proximal Policy Optimization Algorithms (PPO) | [058_proximal-policy-optimization-algorithms-ppo](https://github.com/nadyth/research-notebooks/tree/main/058_proximal-policy-optimization-algorithms-ppo) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/proximal-policy-optimization-algorithms-ppo) |
+| 059 | Rainbow: Combining Improvements in Deep Reinforcement Learning | [059_rainbow-combining-improvements-deep-rl](https://github.com/nadyth/research-notebooks/tree/main/059_rainbow-combining-improvements-deep-rl) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/rainbow-combining-improvements-deep-rl) |
 
 ## Stats
 
-- **54 notebooks** published and validated on Kaggle GPU
+- **55 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
