@@ -62,6 +62,7 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 053 | Dueling Network Architectures for Deep RL | [053_dueling-network-architectures-for-deep-rl](https://github.com/nadyth/research-notebooks/tree/main/053_dueling-network-architectures-for-deep-rl) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/dueling-network-architectures-for-deep-rl) |
 | 056 | Trust Region Policy Optimization (TRPO) | [056_trust-region-policy-optimization](https://github.com/nadyth/research-notebooks/tree/main/056_trust-region-policy-optimization) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/trust-region-policy-optimization-trpo) |
 | 057 | Continuous Control with Deep Reinforcement Learning (DDPG) | [057_continuous-control-with-deep-rl-ddpg](https://github.com/nadyth/research-notebooks/tree/main/057_continuous-control-with-deep-rl-ddpg) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/continuous-control-deep-rl-ddpg) |
+| 058 | Proximal Policy Optimization Algorithms (PPO) | [058_proximal-policy-optimization-algorithms-ppo](https://github.com/nadyth/research-notebooks/tree/main/058_proximal-policy-optimization-algorithms-ppo) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/proximal-policy-optimization-algorithms-ppo) |
 
 ## Stats
 
