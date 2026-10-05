@@ -65,10 +65,11 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 058 | Proximal Policy Optimization Algorithms (PPO) | [058_proximal-policy-optimization-algorithms-ppo](https://github.com/nadyth/research-notebooks/tree/main/058_proximal-policy-optimization-algorithms-ppo) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/proximal-policy-optimization-algorithms-ppo) |
 | 059 | Rainbow: Combining Improvements in Deep Reinforcement Learning | [059_rainbow-combining-improvements-deep-rl](https://github.com/nadyth/research-notebooks/tree/main/059_rainbow-combining-improvements-deep-rl) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/rainbow-combining-improvements-deep-rl) |
 | 060 | Soft Actor-Critic (SAC): Off-Policy Maximum Entropy Deep RL | [060_soft-actor-critic-sac](https://github.com/nadyth/research-notebooks/tree/main/060_soft-actor-critic-sac) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/soft-actor-critic-sac) |
+| 061 | AlphaZero — Mastering Chess and Shogi by Self-Play | [061_alphazero-mastering-chess-and-shogi-by](https://github.com/nadyth/research-notebooks/tree/main/061_alphazero-mastering-chess-and-shogi-by) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/alphazero-mastering-chess-and-shogi) |
 
 ## Stats
 
-- **56 notebooks** published and validated on Kaggle GPU
+- **57 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
