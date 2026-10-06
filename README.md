@@ -71,10 +71,11 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 064 | Neural Ordinary Differential Equations | [064_neural-ordinary-differential-equations](https://github.com/nadyth/research-notebooks/tree/main/064_neural-ordinary-differential-equations) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/neural-ordinary-differential-equations) |
 | 065 | node2vec: Scalable Feature Learning for Networks | [065_node2vec-scalable-feature-learning-networks](https://github.com/nadyth/research-notebooks/tree/main/065_node2vec-scalable-feature-learning-networks) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/node2vec-scalable-feature-learning-for-networks) |
 | 066 | DeepWalk: Online Learning of Social Representations | [066_deepwalk-online-learning-of-social-rep](https://github.com/nadyth/research-notebooks/tree/main/066_deepwalk-online-learning-of-social-rep) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/deepwalk-online-learning-of-social-representations) |
+| 067 | Semi-Supervised Classification with Graph Convolutional Networks (GCN) | [067_semi-supervised-classification-graph-convolutional-networks](https://github.com/nadyth/research-notebooks/tree/main/067_semi-supervised-classification-graph-convolutional-networks) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/semi-supervised-classification-graph-conv) |
 
 ## Stats
 
-- **60 notebooks** published and validated on Kaggle GPU
+- **61 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
