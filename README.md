@@ -69,6 +69,7 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 062 | World Models | [062_world-models](https://github.com/nadyth/research-notebooks/tree/main/062_world-models) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/world-models) |
 | 063 | Deep Reinforcement Learning from Human Preferences | [063_deep-rl-from-human-preferences](https://github.com/nadyth/research-notebooks/tree/main/063_deep-rl-from-human-preferences) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/deep-reinforcement-learning-from-human-preferences) |
 | 064 | Neural Ordinary Differential Equations | [064_neural-ordinary-differential-equations](https://github.com/nadyth/research-notebooks/tree/main/064_neural-ordinary-differential-equations) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/neural-ordinary-differential-equations) |
+| 065 | node2vec: Scalable Feature Learning for Networks | [065_node2vec-scalable-feature-learning-networks](https://github.com/nadyth/research-notebooks/tree/main/065_node2vec-scalable-feature-learning-networks) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/node2vec-scalable-feature-learning-for-networks) |
 
 ## Stats
 
