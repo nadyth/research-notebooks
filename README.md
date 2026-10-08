@@ -74,6 +74,7 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 067 | Semi-Supervised Classification with Graph Convolutional Networks (GCN) | [067_semi-supervised-classification-graph-convolutional-networks](https://github.com/nadyth/research-notebooks/tree/main/067_semi-supervised-classification-graph-convolutional-networks) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/semi-supervised-classification-graph-conv) |
 | 068 | Graph Attention Networks (GAT) | [068_graph-attention-networks-gat](https://github.com/nadyth/research-notebooks/tree/main/068_graph-attention-networks-gat) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/graph-attention-networks-gat) |
 | 069 | Representation Learning with Contrastive Predictive Coding | [069_representation-learning-with-contrastive-predictive](https://github.com/nadyth/research-notebooks/tree/main/069_representation-learning-with-contrastive-predictive) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/069-contrastive-predictive-coding) |
+| 070 | SimCLR — A Simple Framework for Contrastive Learning of Visual Representations | [070_simclr-contrastive-learning](https://github.com/nadyth/research-notebooks/tree/main/070_simclr-contrastive-learning) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/simclr-a-simple-framework-for-contrastive-learning) |
 
 ## Stats
 
