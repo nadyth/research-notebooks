@@ -77,10 +77,11 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 070 | SimCLR — A Simple Framework for Contrastive Learning of Visual Representations | [070_simclr-contrastive-learning](https://github.com/nadyth/research-notebooks/tree/main/070_simclr-contrastive-learning) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/simclr-a-simple-framework-for-contrastive-learning) |
 | 071 | Momentum Contrast for Unsupervised Visual Representation Learning (MoCo) | [071_momentum-contrast-unsupervised-visual](https://github.com/nadyth/research-notebooks/tree/main/071_momentum-contrast-unsupervised-visual) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/moco-unsupervised-visual-representation-learning) |
 | 072 | Bootstrap Your Own Latent (BYOL) — Self-Supervised Learning Without Negative Pairs | [072_bootstrap-your-own-latent-byol](https://github.com/nadyth/research-notebooks/tree/main/072_bootstrap-your-own-latent-byol) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/bootstrap-your-own-latent-byol) |
+| 073 | Deep Contextualized Word Representations (ELMo) | [073_deep-contextualized-word-representations-elmo](https://github.com/nadyth/research-notebooks/tree/main/073_deep-contextualized-word-representations-elmo) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/deep-contextualized-word-representations-elmo) |
 
 ## Stats
 
-- **63 notebooks** published and validated on Kaggle GPU
+- **64 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
