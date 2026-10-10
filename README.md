@@ -79,6 +79,7 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 072 | Bootstrap Your Own Latent (BYOL) — Self-Supervised Learning Without Negative Pairs | [072_bootstrap-your-own-latent-byol](https://github.com/nadyth/research-notebooks/tree/main/072_bootstrap-your-own-latent-byol) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/bootstrap-your-own-latent-byol) |
 | 073 | Deep Contextualized Word Representations (ELMo) | [073_deep-contextualized-word-representations-elmo](https://github.com/nadyth/research-notebooks/tree/main/073_deep-contextualized-word-representations-elmo) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/deep-contextualized-word-representations-elmo) |
 | 074 | BERT: Pre-training of Deep Bidirectional Transformers | [074_bert-pre-training-deep-bidirectional-transformers](https://github.com/nadyth/research-notebooks/tree/main/074_bert-pre-training-deep-bidirectional-transformers) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/bert-pre-training-deep-bidirectional-transformers) |
+| 075 | XLNet: Generalized Autoregressive Pretraining | [075_xlnet-permutation-language-model](https://github.com/nadyth/research-notebooks/tree/main/075_xlnet-permutation-language-model) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/xlnet-generalized-autoregressive-pretraining) |
 
 ## Stats
 
