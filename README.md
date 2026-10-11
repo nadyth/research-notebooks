@@ -82,10 +82,11 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 075 | XLNet: Generalized Autoregressive Pretraining | [075_xlnet-permutation-language-model](https://github.com/nadyth/research-notebooks/tree/main/075_xlnet-permutation-language-model) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/xlnet-generalized-autoregressive-pretraining) |
 | 076 | RoBERTa: A Robustly Optimized BERT Pretraining Approach | [076_roberta-robustly-optimized-bert-pretraining](https://github.com/nadyth/research-notebooks/tree/main/076_roberta-robustly-optimized-bert-pretraining) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/roberta-robustly-optimized-bert-pretraining) |
 | 077 | ALBERT: A Lite BERT for Self-supervised Learning | [077_albert-lite-bert](https://github.com/nadyth/research-notebooks/tree/main/077_albert-lite-bert) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/albert-a-lite-bert-for-self-supervised-learning) |
+| 078 | DistilBERT: A Distilled Version of BERT | [078_distilbert-distilled-version-of-bert](https://github.com/nadyth/research-notebooks/tree/main/078_distilbert-distilled-version-of-bert) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/distilbert-a-distilled-version-of-bert) |
 
 ## Stats
 
-- **67 notebooks** published and validated on Kaggle GPU
+- **68 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
