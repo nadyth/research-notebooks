@@ -80,10 +80,11 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 073 | Deep Contextualized Word Representations (ELMo) | [073_deep-contextualized-word-representations-elmo](https://github.com/nadyth/research-notebooks/tree/main/073_deep-contextualized-word-representations-elmo) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/deep-contextualized-word-representations-elmo) |
 | 074 | BERT: Pre-training of Deep Bidirectional Transformers | [074_bert-pre-training-deep-bidirectional-transformers](https://github.com/nadyth/research-notebooks/tree/main/074_bert-pre-training-deep-bidirectional-transformers) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/bert-pre-training-deep-bidirectional-transformers) |
 | 075 | XLNet: Generalized Autoregressive Pretraining | [075_xlnet-permutation-language-model](https://github.com/nadyth/research-notebooks/tree/main/075_xlnet-permutation-language-model) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/xlnet-generalized-autoregressive-pretraining) |
+| 076 | RoBERTa: A Robustly Optimized BERT Pretraining Approach | [076_roberta-robustly-optimized-bert-pretraining](https://github.com/nadyth/research-notebooks/tree/main/076_roberta-robustly-optimized-bert-pretraining) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/roberta-robustly-optimized-bert-pretraining) |
 
 ## Stats
 
-- **65 notebooks** published and validated on Kaggle GPU
+- **66 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
