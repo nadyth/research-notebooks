@@ -84,11 +84,12 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 077 | ALBERT: A Lite BERT for Self-supervised Learning | [077_albert-lite-bert](https://github.com/nadyth/research-notebooks/tree/main/077_albert-lite-bert) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/albert-a-lite-bert-for-self-supervised-learning) |
 | 078 | DistilBERT: A Distilled Version of BERT | [078_distilbert-distilled-version-of-bert](https://github.com/nadyth/research-notebooks/tree/main/078_distilbert-distilled-version-of-bert) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/distilbert-a-distilled-version-of-bert) |
 | 079 | Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (T5) | [079_exploring-limits-transfer-learning-text-to-text](https://github.com/nadyth/research-notebooks/tree/main/079_exploring-limits-transfer-learning-text-to-text) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/exploring-transfer-learning-t5) |
+| 080 | Language Models are Few-Shot Learners (GPT-3) | [080_language-models-few-shot-learners-gpt3](https://github.com/nadyth/research-notebooks/tree/main/080_language-models-few-shot-learners-gpt3) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/language-models-few-shot-learners-gpt3) |
 | 081 | An Image is Worth 16x16 Words (Vision Transformer) | [081_image-worth-16x16-words-vision-transformer](https://github.com/nadyth/research-notebooks/tree/main/081_image-worth-16x16-words-vision-transformer) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/an-image-is-worth-16x16-words-vision-transformer) |
 
 ## Stats
 
-- **79 notebooks** published and validated on Kaggle GPU
+- **80 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
