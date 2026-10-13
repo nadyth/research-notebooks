@@ -89,6 +89,7 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 082 | Learning Transferable Visual Models From Natural Language Supervision (CLIP) | [082_learning-transferable-visual-models-clip](https://github.com/nadyth/research-notebooks/tree/main/082_learning-transferable-visual-models-clip) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/082-learning-transferable-visual-models-clip) |
 | 083 | Zero-Shot Text-to-Image Generation (DALL-E) | [083_zero-shot-text-to-image-generation-dall-e](https://github.com/nadyth/research-notebooks/tree/main/083_zero-shot-text-to-image-generation-dall-e) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/zero-shot-text-to-image-generation-dall-e) |
 | 084 | Denoising Diffusion Probabilistic Models (DDPM) | [084_denoising-diffusion-probabilistic-models](https://github.com/nadyth/research-notebooks/tree/main/084_denoising-diffusion-probabilistic-models) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/denoising-diffusion-probabilistic-models-ddpm) |
+| 085 | Denoising Diffusion Implicit Models (DDIM) | [085_denoising-diffusion-implicit-models](https://github.com/nadyth/research-notebooks/tree/main/085_denoising-diffusion-implicit-models) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/denoising-diffusion-implicit-models) |
 
 ## Stats
 
