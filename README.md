@@ -90,10 +90,11 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 083 | Zero-Shot Text-to-Image Generation (DALL-E) | [083_zero-shot-text-to-image-generation-dall-e](https://github.com/nadyth/research-notebooks/tree/main/083_zero-shot-text-to-image-generation-dall-e) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/zero-shot-text-to-image-generation-dall-e) |
 | 084 | Denoising Diffusion Probabilistic Models (DDPM) | [084_denoising-diffusion-probabilistic-models](https://github.com/nadyth/research-notebooks/tree/main/084_denoising-diffusion-probabilistic-models) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/denoising-diffusion-probabilistic-models-ddpm) |
 | 085 | Denoising Diffusion Implicit Models (DDIM) | [085_denoising-diffusion-implicit-models](https://github.com/nadyth/research-notebooks/tree/main/085_denoising-diffusion-implicit-models) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/denoising-diffusion-implicit-models) |
+| 086 | High-Resolution Image Synthesis with Latent Diffusion Models (Stable Diffusion) | [086_high-resolution-latent-diffusion](https://github.com/nadyth/research-notebooks/tree/main/086_high-resolution-latent-diffusion) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/latent-diffusion-models) |
 
 ## Stats
 
-- **83 notebooks** published and validated on Kaggle GPU
+- **84 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
