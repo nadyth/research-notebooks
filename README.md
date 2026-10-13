@@ -88,10 +88,11 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 081 | An Image is Worth 16x16 Words (Vision Transformer) | [081_image-worth-16x16-words-vision-transformer](https://github.com/nadyth/research-notebooks/tree/main/081_image-worth-16x16-words-vision-transformer) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/an-image-is-worth-16x16-words-vision-transformer) |
 | 082 | Learning Transferable Visual Models From Natural Language Supervision (CLIP) | [082_learning-transferable-visual-models-clip](https://github.com/nadyth/research-notebooks/tree/main/082_learning-transferable-visual-models-clip) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/082-learning-transferable-visual-models-clip) |
 | 083 | Zero-Shot Text-to-Image Generation (DALL-E) | [083_zero-shot-text-to-image-generation-dall-e](https://github.com/nadyth/research-notebooks/tree/main/083_zero-shot-text-to-image-generation-dall-e) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/zero-shot-text-to-image-generation-dall-e) |
+| 084 | Denoising Diffusion Probabilistic Models (DDPM) | [084_denoising-diffusion-probabilistic-models](https://github.com/nadyth/research-notebooks/tree/main/084_denoising-diffusion-probabilistic-models) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/denoising-diffusion-probabilistic-models-ddpm) |
 
 ## Stats
 
-- **82 notebooks** published and validated on Kaggle GPU
+- **83 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
