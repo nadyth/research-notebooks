@@ -93,10 +93,11 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 086 | High-Resolution Image Synthesis with Latent Diffusion Models (Stable Diffusion) | [086_high-resolution-latent-diffusion](https://github.com/nadyth/research-notebooks/tree/main/086_high-resolution-latent-diffusion) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/latent-diffusion-models) |
 | 087 | Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer | [087_sparsely-gated-mixture-of-experts](https://github.com/nadyth/research-notebooks/tree/main/087_sparsely-gated-mixture-of-experts) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/sparsely-gated-mixture-of-experts-layer) |
 | 088 | Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity | [088_switch-transformer](https://github.com/nadyth/research-notebooks/tree/main/088_switch-transformer) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/088-switch-transformer) |
+| 089 | WaveNet: A Generative Model for Raw Audio | [089_wavenet-a-generative-model-for-raw-audio](https://github.com/nadyth/research-notebooks/tree/main/089_wavenet-a-generative-model-for-raw-audio) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/wavenet-a-generative-model-for-raw-audio) |
 
 ## Stats
 
-- **85 notebooks** published and validated on Kaggle GPU
+- **86 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
