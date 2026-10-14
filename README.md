@@ -92,6 +92,7 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 085 | Denoising Diffusion Implicit Models (DDIM) | [085_denoising-diffusion-implicit-models](https://github.com/nadyth/research-notebooks/tree/main/085_denoising-diffusion-implicit-models) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/denoising-diffusion-implicit-models) |
 | 086 | High-Resolution Image Synthesis with Latent Diffusion Models (Stable Diffusion) | [086_high-resolution-latent-diffusion](https://github.com/nadyth/research-notebooks/tree/main/086_high-resolution-latent-diffusion) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/latent-diffusion-models) |
 | 087 | Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer | [087_sparsely-gated-mixture-of-experts](https://github.com/nadyth/research-notebooks/tree/main/087_sparsely-gated-mixture-of-experts) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/sparsely-gated-mixture-of-experts-layer) |
+| 088 | Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity | [088_switch-transformer](https://github.com/nadyth/research-notebooks/tree/main/088_switch-transformer) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/088-switch-transformer) |
 
 ## Stats
 
