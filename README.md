@@ -99,10 +99,11 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 092 | Wide & Deep Learning for Recommender Systems | [092_wide-deep-learning-recommender-systems](https://github.com/nadyth/research-notebooks/tree/main/092_wide-deep-learning-recommender-systems) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/wide-deep-learning-for-recommender-systems) |
 | 093 | Deep Learning Recommendation Model (DLRM) | [093_deep-learning-recommendation-model-dlrm](https://github.com/nadyth/research-notebooks/tree/main/093_deep-learning-recommendation-model-dlrm) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/deep-learning-recommendation-model-dlrm) |
 | 094 | Deep Speech: Scaling up End-to-End Speech Recognition | [094_deep-speech-scaling-up-end-to-end-speech](https://github.com/nadyth/research-notebooks/tree/main/094_deep-speech-scaling-up-end-to-end-speech) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/deep-speech-end-to-end-speech-recognition) |
+| 095 | LoRA: Low-Rank Adaptation of Large Language Models | [095_lora-low-rank-adaptation](https://github.com/nadyth/research-notebooks/tree/main/095_lora-low-rank-adaptation) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/lora-low-rank-adaptation) |
 
 ## Stats
 
-- **90 notebooks** published and validated on Kaggle GPU
+- **91 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
