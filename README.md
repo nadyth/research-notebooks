@@ -97,10 +97,11 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 090 | Tacotron: Towards End-to-End Speech Synthesis | [090_tacotron-end-to-end-speech-synthesis](https://github.com/nadyth/research-notebooks/tree/main/090_tacotron-end-to-end-speech-synthesis) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/tacotron-towards-end-to-end-speech-synthesis) |
 | 091 | Neural Collaborative Filtering | [091_neural-collaborative-filtering](https://github.com/nadyth/research-notebooks/tree/main/091_neural-collaborative-filtering) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/neural-collaborative-filtering) |
 | 092 | Wide & Deep Learning for Recommender Systems | [092_wide-deep-learning-recommender-systems](https://github.com/nadyth/research-notebooks/tree/main/092_wide-deep-learning-recommender-systems) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/wide-deep-learning-for-recommender-systems) |
+| 093 | Deep Learning Recommendation Model (DLRM) | [093_deep-learning-recommendation-model-dlrm](https://github.com/nadyth/research-notebooks/tree/main/093_deep-learning-recommendation-model-dlrm) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/deep-learning-recommendation-model-dlrm) |
 
 ## Stats
 
-- **88 notebooks** published and validated on Kaggle GPU
+- **89 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
