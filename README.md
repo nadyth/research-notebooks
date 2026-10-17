@@ -102,10 +102,11 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 095 | LoRA: Low-Rank Adaptation of Large Language Models | [095_lora-low-rank-adaptation](https://github.com/nadyth/research-notebooks/tree/main/095_lora-low-rank-adaptation) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/lora-low-rank-adaptation) |
 | 096 | Training Language Models to Follow Instructions with Human Feedback (InstructGPT) | [096_instructgpt-human-feedback](https://github.com/nadyth/research-notebooks/tree/main/096_instructgpt-human-feedback) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/instructgpt-human-feedback) |
 | 097 | Training Compute-Optimal Large Language Models (Chinchilla) | [097_chinchilla-compute-optimal-scaling-laws](https://github.com/nadyth/research-notebooks/tree/main/097_chinchilla-compute-optimal-scaling-laws) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/chinchilla-compute-optimal-scaling-laws) |
+| 098 | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks (RAG) | [098_retrieval-augmented-generation-rag](https://github.com/nadyth/research-notebooks/tree/main/098_retrieval-augmented-generation-rag) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/retrieval-augmented-generation-rag) |
 
 ## Stats
 
-- **93 notebooks** published and validated on Kaggle GPU
+- **94 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
