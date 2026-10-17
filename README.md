@@ -101,10 +101,11 @@ A collection of from-scratch study-and-code packages for foundational machine-le
 | 094 | Deep Speech: Scaling up End-to-End Speech Recognition | [094_deep-speech-scaling-up-end-to-end-speech](https://github.com/nadyth/research-notebooks/tree/main/094_deep-speech-scaling-up-end-to-end-speech) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/deep-speech-end-to-end-speech-recognition) |
 | 095 | LoRA: Low-Rank Adaptation of Large Language Models | [095_lora-low-rank-adaptation](https://github.com/nadyth/research-notebooks/tree/main/095_lora-low-rank-adaptation) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/lora-low-rank-adaptation) |
 | 096 | Training Language Models to Follow Instructions with Human Feedback (InstructGPT) | [096_instructgpt-human-feedback](https://github.com/nadyth/research-notebooks/tree/main/096_instructgpt-human-feedback) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/instructgpt-human-feedback) |
+| 097 | Training Compute-Optimal Large Language Models (Chinchilla) | [097_chinchilla-compute-optimal-scaling-laws](https://github.com/nadyth/research-notebooks/tree/main/097_chinchilla-compute-optimal-scaling-laws) | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/nadymsazad/chinchilla-compute-optimal-scaling-laws) |
 
 ## Stats
 
-- **92 notebooks** published and validated on Kaggle GPU
+- **93 notebooks** published and validated on Kaggle GPU
 - All notebooks are public on Kaggle — click the badge to view and run interactively
 - Each package includes:
   - **README.md** — plain-language summary, key method details, influence
